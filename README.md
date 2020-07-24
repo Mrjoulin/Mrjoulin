@@ -1,16 +1,16 @@
-### Hi there 👋
+## Привет 👋
 
-<!--
-**Mrjoulin/Mrjoulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Матвей. Занимамюсь backend разработкой и ML на Python. Опыт в языке Python: 2+ года.
 
-Here are some ideas to get you started:
+#### Фреймворки и технологии, с которыми я работал:
+ * ML библиотеки: Tensorflow, OpenCV, PyTorch, scikit-learn/scikit-image
+ * Веб-разработка: Flask, aiohttp, Django
+ * Базы данных: MongoDB, PostgreSQL, MySQL
+ * Чат-боты, под плтаформы: Telegram, VK, Viber
+ 
+ Также есть небольшой опыт работы с Java, JS, C++, Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Мои контакты:
+ * [Telegram](https://t.me/joulin)
+ * [ВКонтакте](https://vk.com/mrjoulin)
+ 
