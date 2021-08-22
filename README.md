@@ -9,7 +9,7 @@
  * Чат-боты любой сложности под платаформы: **Telegram, VK**, Viber
  * Деплой/развёртка: **Docker, docker-compose**, Circleci, Kubernetes
  
-Также есть небольшой опыт работы с **C++, Java, JavaScript, Golang**.
+Также есть небольшой опыт работы с **C++, Java, Kotlin, JavaScript, Golang**.
 
 #### Мои контакты:
  * [Telegram](https://t.me/joulin)
