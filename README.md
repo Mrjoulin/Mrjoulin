@@ -1,19 +1,19 @@
 ## Привет 👋
 
-Меня зовут Матвей. На данный момент я работаю Data Enginner в АО «Альфа-Банк». Также обучаюсь в Университете ИТМО на направлении «Програмная Инженерия». Интересусь ML/DL на Python и backend разработкой.
+Меня зовут Матвей. На данный момент я работаю как Data Scientist в АО «Альфа-Банк», ранее работал более 3 лет в роли Data Engineer. Закончил баклавриат по направлению «Програмная Инженерия» в Университете ИТМО, Санкт-Петербург. В данный момент там же прохожу магистратуру на направлении «Проектирование и разработка систем ИИ». Интересусь ML/DL/DE, а также backend разработкой.
 
 #### Фреймворки и технологии, с которыми я работал:
- * **ML библиотеки:** Tensorflow, PyTorch, OpenCV, scikit-learn/scikit-image
- * **Веб-разработка:** Spring/Spring-Boot, Ktor, Flask, aiohttp, Django, Camunda
- * **Распределённые хранилища данных:** Hadoop, Spark, Hive, Impala
- * **Базы данных:** PostgreSQL, Oracle, MySQL, MongoDB
+ * **ML библиотеки:** Tensorflow, PyTorch, OpenCV, градинетные бустинги (CatBoost, XGBoost, и тд.), scikit-learn/scikit-image
+ * **Веб-разработка:** Spring/Spring-Boot, Ktor, FastAPI, Flask, aiohttp, Django, Camunda
+ * **Data Engiinering:** S3, Hadoop, Spark, Hive, Impala, SQL в любом формате
+ * **Базы данных:** PostgreSQL, Oracle, MySQL, MongoDB, большой опыт работы с ORM
  * **Брокеры сообщений:** Kafka, Redis, ActiveMQ
- * **Деплой/развёртка:** Docker, docker-compose, Github Actions, CircleCI, Kubernetes
+ * **Деплой/развёртка:** Docker / Docker Compose, Kubernetes, Github Actions, CircleCI
 
 #### Имеется опыт работы со следующими ЯП:
 |**Языки**|**Статистика GitHub**|
 |:---:|:---:|
-| <ul><li>**Python** - более 5 лет</li><li>**Java** - более 4 лет</li><li>**Kotlin** - более 3 лет</li><li>JavaScript - более года</li><li>C++/C - около года</li></ul> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrjoulin) |
+| <ul><li>**Python** - более 6 лет</li><li>**Java** - более 4 лет</li><li>**Kotlin** - более 3 лет</li><li>JavaScript - более года</li><li>C++/C - около года</li></ul> | ![Top Langs](https://github-readme-stats-333y.vercel.app/api/top-langs/?username=Mrjoulin&hide_border=true&langs_count=4&show_icons=true&card_width=495&theme=transparent&hide=javascript,html,css,scss,nunjucks,php,GLSL,lua) |
 
 Также есть небольшой опыт работы с **Scala, C#, Golang, TypeScript, Prolog, Assembly x86**
 
