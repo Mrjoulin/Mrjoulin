@@ -1,28 +1,24 @@
-## Привет 👋
+## Hello 👋
 
-Меня зовут Матвей. На данный момент я работаю как Data Scientist в АО «Альфа-Банк», ранее работал более 3 лет в роли Data Engineer. Закончил баклавриат по направлению «Програмная Инженерия» в Университете ИТМО, Санкт-Петербург. В данный момент там же прохожу магистратуру на направлении «Проектирование и разработка систем ИИ». Интересусь ML/DL/DE, а также backend разработкой.
+My name is Matthew. I currently work as a Senior Data Scientist at Alfa-Bank, having previously spent over 3 years as a Data Engineer. I hold a bachelor’s degree in Software Engineering from ITMO University in Saint Petersburg, where I am now pursuing a master’s degree in the Design and Development of AI Systems. My professional interests lie in ML/DL/DE and backend development.
 
-#### Фреймворки и технологии, с которыми я работал:
- * **ML библиотеки:** Tensorflow, PyTorch, OpenCV, градинетные бустинги (CatBoost, XGBoost, и тд.), scikit-learn/scikit-image
- * **Веб-разработка:** Spring/Spring-Boot, Ktor, FastAPI, Flask, aiohttp, Django, Camunda
- * **Data Engiinering:** S3, Hadoop, Spark, Hive, Impala, SQL в любом формате
- * **Базы данных:** PostgreSQL, Oracle, MySQL, MongoDB, большой опыт работы с ORM
- * **Брокеры сообщений:** Kafka, Redis, ActiveMQ
- * **Деплой/развёртка:** Docker / Docker Compose, Kubernetes, Github Actions, CircleCI
+#### Frameworks and technologies I have worked with:
+* **ML Libraries:** PyTorch, TensorFlow, OpenCV, gradient boosting frameworks (CatBoost, XGBoost, etc.), CUDA, scikit-learn/scikit-image
+* **Web Development:** Spring/Spring Boot, Ktor, FastAPI, Flask, aiohttp, Django, Camunda
+* **Data Engineering:** S3, Hadoop, Spark, Hive, Impala, SQL (in various dialects)
+* **Databases:** PostgreSQL, Oracle, MySQL, MongoDB; extensive experience with ORMs
+* **Message Brokers:** Kafka, Redis, ActiveMQ
+* **Deployment:** Docker / Docker Compose, Kubernetes, GitHub Actions, CircleCI
 
-#### Имеется опыт работы со следующими ЯП:
-|**Языки**|**Статистика GitHub**|
+#### Programming languages ​​I have experience with:
+|**Languages**|**GitHub Statistics**|
 |:---:|:---:|
-| <ul><li>**Python** - более 6 лет</li><li>**Java** - более 4 лет</li><li>**Kotlin** - более 3 лет</li><li>JavaScript - более года</li><li>C++/C - около года</li></ul> | ![Top Langs](https://github-readme-stats-333y.vercel.app/api/top-langs/?username=Mrjoulin&hide_border=true&langs_count=4&show_icons=true&card_width=495&theme=transparent&hide=javascript,html,css,scss,nunjucks,php,GLSL,lua) |
+| <ul><li>**Python** – over 6 years</li><li>**Java** – over 4 years</li><li>**Kotlin** – over 3 years</li><li>JavaScript – over 1 year</li><li>C++/C – about 1 year</li></ul> | ![Top Langs](https://github-readme-stats-333y.vercel.app/api/top-langs/?username=Mrjoulin&hide_border=true&langs_count=4&show_icons=true&card_width=495&theme=transparent&hide=javascript,html,css,scss,nunjucks,php,GLSL,lua) |
 
-Также есть небольшой опыт работы с **Scala, C#, Golang, TypeScript, Prolog, Assembly x86**
+Also have some experience with **Scala, C#, Golang, TypeScript, Prolog, Assembly x86**
 
+#### My contacts:
 
-#### Мои контакты:
-
-<a href="https://t.me/joulin">
-   <img top="0" src="https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
-</a>
-<a href="https://vk.com/mrjoulin">
-   <img top="0" src="https://img.shields.io/badge/VK-%231572B6.svg?style=for-the-badge&logo=Vk&logoColor=white" alt="VK" target="_blank" margin-left="10px">
+<a href="https://t.me/joulin"> 
+<img top="0" src="https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
 </a>
